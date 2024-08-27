@@ -7,7 +7,7 @@ void AddStudent();
 void StudentDetails();
 void StudentSearch();
 void DeleteStudentData();
-
+//git 
 struct Student {
 
 
